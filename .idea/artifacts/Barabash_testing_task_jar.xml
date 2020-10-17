@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Barabash-testing-task:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Barabash_testing_task_jar</output-path>
+    <root id="archive" name="Barabash-testing-task.jar">
+      <element id="module-output" name="Barabash-testing-task" />
+    </root>
+  </artifact>
+</component>
